@@ -1,0 +1,74 @@
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+}
+
+.center {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.image {
+  border-radius: 50%;
+}
+
+.header1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 6vw;
+  color: #969696;
+}
+
+.header2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.4vw;
+  color: #969696;
+}
+
+.header3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.2vw;
+  color: #969696;
+}
+
+.link1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.2vw;
+  color: inherit;
+  margin: 0px 5px 0px 5px;
+  transition: 0.5s;
+  color: #969696;
+}
+
+.link2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.2vw;
+  color: inherit;
+  margin: 0px 5px 0px 5px;
+  transition: 0.5s;
+  color: #969696;
+}
+
+.link3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.2vw;
+  color: inherit;
+  margin: 0px 5px 0px 5px;
+  transition: 0.5s;
+  color: #969696;
+}
+
+.link1:hover {
+  color: #5865F2;
+}
+
+.link2:hover {
+  color: turquoise;
+}
+
+.link3:hover {
+  color: white;
+}
