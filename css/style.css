@@ -72,3 +72,7 @@
 .link3:hover {
   color: white;
 }
+
+p {
+  user-select: none;
+}
